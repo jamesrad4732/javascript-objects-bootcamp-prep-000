@@ -1,2 +1,2 @@
-var playlist = { zedd: clarity };
+var playlist = { artist: song };
 
